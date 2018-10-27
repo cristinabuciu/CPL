@@ -1,0 +1,11 @@
+FILE NAME: fisier.cl
+sd : STRING
+[@0,0:4='sd',<22>,1:0]
+sg\
+hn : STRING
+[@1,6:13='sg\\nhn',<22>,2:0]
+<EOF> : EOF
+[@2,15:14='<EOF>',<-1>,4:0]
+
+
+
